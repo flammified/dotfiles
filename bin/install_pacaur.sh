@@ -16,3 +16,5 @@ popd
 
 rm -rf "$build"
 #taken from https://github.com/Chaosteil/dotfiles/blob/master/archsetup/install_pacaur.sh under MIT license
+
+pacaur -S nitrogen i3-gaps intellij-idea-ultimate-edition clojure google-chrome telegram-desktop-bin cower
